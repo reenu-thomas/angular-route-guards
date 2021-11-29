@@ -1,0 +1,16 @@
+
+.form-signin{
+  padding:30px;
+
+}
+
+.form-control{
+  margin-bottom: 20px;
+  width: 600px;
+}
+
+.container{
+  width: 680px;
+  height: 680px;
+  background-color: lightpink;
+}

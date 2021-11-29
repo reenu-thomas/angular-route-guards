@@ -1,0 +1,14 @@
+p{
+
+  padding: 30px;
+}
+
+.contain{
+  width: 2000px;
+  height: 1000px;
+  background-color: lightskyblue;
+}
+
+button {
+  margin-left: 60px;
+}
